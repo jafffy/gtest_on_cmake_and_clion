@@ -5,5 +5,5 @@
 #include "gtest/gtest.h"
 
 TEST(HelloWorld, SimpleTest) {
-    ASSERT_TRUE(false);
+    ASSERT_TRUE(false) << "false should be true!";
 }
