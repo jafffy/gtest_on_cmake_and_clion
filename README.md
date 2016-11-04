@@ -1,1 +1,1 @@
-# gtest_on_cmake_and_clion
+# Running gtest on JetBrains Clion
