@@ -1,0 +1,1 @@
+# gtest_on_cmake_and_clion
